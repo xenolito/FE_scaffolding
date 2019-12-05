@@ -1,0 +1,7 @@
+$main-color: #fc1a57;
+$font-family-default: 'Helvetica', 'Arial', sans-serif;
+
+:root {
+	--main-color: #{$main-color};
+	--font-family-default: #{$font-family-default};
+}

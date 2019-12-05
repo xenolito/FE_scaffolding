@@ -4,10 +4,10 @@
 
 #project dependencies
 node_modules
+public
 
 #OSX hidden folders
 .DS_Store
-
 #temp files
 *.tmp
 *-
